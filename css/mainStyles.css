@@ -1,0 +1,11 @@
+.navigation{
+    background-color: blue;
+}
+
+.index{
+    background-color:red;
+}
+
+.navigation__block{
+    display: flex;
+}
